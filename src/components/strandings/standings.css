@@ -1,0 +1,15 @@
+select {
+    padding: 10 px;
+    font-size: 19px;
+}
+
+
+.standings-results {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.standing-info-div {
+    margin: 20px 0;
+}
